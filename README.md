@@ -4,8 +4,6 @@
 
 ## 🏆 Team SEEDHE CODE - Pragati AI for Impact Hackathon 2025 Winner
 
-**Team Leader:** Rohan Kumar Jena  
-**Domain:** Healthcare  
 
 ---
 
